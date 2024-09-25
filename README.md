@@ -8,3 +8,7 @@ Make sure docker is installed, then run the following command
 ```
 docker compose up -d
 ```
+
+#### Screenshot
+
+![alt screenshot.png](./art/screenshot.png)
